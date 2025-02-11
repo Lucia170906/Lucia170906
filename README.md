@@ -1,175 +1,65 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="author" content="Tu Nombre">
-    <title>Mi Página en GitHub</title>
+# 🖥️ Bienvenido a mi página en GitHub
 
-    <style>
-        /* Reseteo de márgenes y padding */
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
+¡Hola! Soy **Lucía**, un desarrollador apasionado por la tecnología, el diseño y el desarrollo web. Este es mi perfil de GitHub, donde podrás encontrar todos mis proyectos y contribuciones al mundo del código abierto.
 
-        body {
-            font-family: 'Arial', sans-serif;
-            background: linear-gradient(135deg, #6a11cb, #2575fc);
-            color: #fff;
-            line-height: 1.6;
-            min-height: 100vh;
-        }
+---
 
-        header {
-            text-align: center;
-            padding: 50px 20px;
-            background: rgba(0, 0, 0, 0.3);
-            border-radius: 8px;
-            margin: 40px auto;
-            max-width: 900px;
-        }
+## 🔧 Sobre mí
 
-        header h1 {
-            font-size: 3.5em;
-            font-weight: bold;
-            text-transform: uppercase;
-            letter-spacing: 2px;
-            color: #fff;
-            margin-bottom: 20px;
-        }
+Soy un desarrollador que trabaja principalmente con tecnologías como:
 
-        header p {
-            font-size: 1.2em;
-            color: #ddd;
-        }
+- **HTML, CSS** para desarrollo web.
+- **Bases de datos SQL** y **MySQL**.
+- **Java**
 
-        .content {
-            max-width: 1000px;
-            margin: 0 auto;
-            padding: 30px;
-            background: #ffffff;
-            color: #333;
-            border-radius: 10px;
-            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
-        }
+Me encanta aprender nuevas tecnologías y colaborar en proyectos con personas de todo el mundo.
 
-        .content h2 {
-            font-size: 2.5em;
-            color: #3498db;
-            margin-bottom: 20px;
-            text-transform: uppercase;
-        }
+---
 
-        .content p {
-            font-size: 1.1em;
-            color: #555;
-            line-height: 1.8;
-            margin-bottom: 30px;
-        }
+## 🚀 Mis Proyectos
 
-        .btn {
-            display: inline-block;
-            padding: 12px 25px;
-            background-color: #3498db;
-            color: white;
-            text-decoration: none;
-            border-radius: 5px;
-            font-size: 1.2em;
-            text-transform: uppercase;
-            letter-spacing: 1px;
-            transition: all 0.3s ease;
-        }
+Puedes explorar mis proyectos más recientes aquí:
 
-        .btn:hover {
-            background-color: #2980b9;
-            transform: translateY(-5px);
-        }
 
-        footer {
-            background-color: #34495e;
-            color: white;
-            text-align: center;
-            padding: 15px;
-            margin-top: 40px;
-            border-radius: 8px;
-        }
 
-        footer a {
-            color: #3498db;
-            text-decoration: none;
-            font-weight: bold;
-        }
+## 📧 ¿Cómo contactarme?
 
-        footer a:hover {
-            text-decoration: underline;
-        }
+Si te interesa colaborar en algún proyecto o tienes preguntas sobre mi trabajo, no dudes en enviarme un correo a:  
+**[luciahdks@gmail.com](mailto:luciahdks@gmail.com)**
 
-        /* Animaciones y efectos */
-        .fadeIn {
-            animation: fadeIn 2s ease-out;
-        }
+O simplemente envíame un mensaje a través de GitHub.
 
-        @keyframes fadeIn {
-            from {
-                opacity: 0;
-                transform: translateY(20px);
-            }
-            to {
-                opacity: 1;
-                transform: translateY(0);
-            }
-        }
+---
 
-        /* Estilo del botón de contacto */
-        .contact-btn {
-            display: inline-block;
-            padding: 12px 25px;
-            background-color: #e74c3c;
-            color: white;
-            text-decoration: none;
-            border-radius: 5px;
-            font-size: 1.2em;
-            text-transform: uppercase;
-            margin-top: 20px;
-            transition: all 0.3s ease;
-        }
+## 🌐 Conéctate conmigo
 
-        .contact-btn:hover {
-            background-color: #c0392b;
-            transform: translateY(-5px);
-        }
-    </style>
-</head>
-<body>
+- GitHub: [@Lucia10906](https://github.com/Lucia170906)
 
-    <header class="fadeIn">
-        <h1>Bienvenido a mi Página en GitHub</h1>
-        <p>Explora mis proyectos, descubre mis contribuciones y aprende más sobre mi trabajo.</p>
-    </header>
+---
 
-    <div class="content fadeIn">
-        <h2>Sobre Mí</h2>
-        <p>
-            ¡Hola! Soy <strong>Tu Nombre</strong>, un desarrollador web apasionado por la tecnología y el diseño. Trabajo con HTML, CSS, JavaScript, React, y otras tecnologías de desarrollo web. Mi misión es crear soluciones innovadoras que resuelvan problemas reales y que sean fáciles de usar.
-        </p>
+## 🔥 Estadísticas de GitHub
 
-        <h2>Mis Proyectos</h2>
-        <p>
-            En mi perfil de GitHub podrás encontrar una variedad de proyectos que van desde aplicaciones web hasta herramientas útiles para desarrolladores. Si te interesa colaborar, no dudes en contactarme.
-        </p>
+Aquí puedes ver algunas estadísticas interesantes sobre mi actividad en GitHub:
 
-        <a href="https://github.com/TuUsuario" class="btn" target="_blank">Visita mi GitHub</a>
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Lucia170906&show_icons=true&theme=tokyonight)
+<br>
 
-        <br>
-        <a href="mailto:tuemail@example.com" class="contact-btn">Contáctame por correo</a>
-    </div>
 
-    <footer>
-        <p>Creado con 💻 por <strong>Tu Nombre</strong></p>
-        <p><a href="https://github.com/TuUsuario" target="_blank">Mi GitHub</a></p>
-    </footer>
+---
 
-</body>
-</html>
+## 💻 Mis habilidades
+
+
+Frontend:
+  - HTML
+  - CSS
+ 
+  
+
+Backend:
+ -Java
+
+Bases de datos:
+  - MySQL
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXA1c290MW1nbmw5aWNrcjZ4b25lN212MXA0czlpa3pob3dwMHliZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/enZgBY5pnllRPDZYJX/giphy.gif" alt="GIF animado" width="colapse" align="center">
