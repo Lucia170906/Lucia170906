@@ -1,8 +1,9 @@
-
+<!DOCTYPE html>
+<html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="author" content="Lucía">
+    <meta name="author" content="Tu Nombre">
     <title>Mi Página en GitHub</title>
 
     <style>
@@ -162,12 +163,13 @@
         <a href="https://github.com/TuUsuario" class="btn" target="_blank">Visita mi GitHub</a>
 
         <br>
-        <a href="mailto:luciahdkf@gmail.com" class="contact-btn">Contáctame por correo</a>
+        <a href="mailto:tuemail@example.com" class="contact-btn">Contáctame por correo</a>
     </div>
 
     <footer>
-        <p>Creado con 💻 por <strong>Lucía</strong></p>
+        <p>Creado con 💻 por <strong>Tu Nombre</strong></p>
         <p><a href="https://github.com/TuUsuario" target="_blank">Mi GitHub</a></p>
     </footer>
 
 </body>
+</html>
